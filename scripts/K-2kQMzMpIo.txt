@@ -1,0 +1,221 @@
+>> This episode is
+brought to you by NordVPN. >> Head on over to nordvpncom/rogue. Sign up for three years for only $99! That's 77% off! Or $2.75 per month! >> Ooh.
+>> It's called math, bruh. Why don't you try it? [laughing] >> That's how you-- >> That's where it is! What was that one prison
+movie that took place on an asteroid, had the highlander in it? >> Whoa, this sounds amazing, what? >> It was pretty bad, Fortress. >> Fortress! You remember Fortress? >> Oh wow, what was that,
+like, '91 or something? >> Yeah.
+>> Yeah, that was terrible. [laughing] >> How quickly you turned. >> It's like, oh yeah, Fortress. That sucked, it sucked real bad. [smooth music] >> Text-To-Speech: Starting
+a fire with batteries. >> So, I guess, the scenario is you and me are prisoners in a
+Michaels or a Hobby Lobby and we need to start a riot. >> I think that often when
+I go shopping for crafts. >> Well, the one thing
+you picture every time you think of a prison riot, you think of toilet paper going down. >> Flaming streamers coming
+down from the upper levels. >> Right, fires to stir stuff up. You get batteries in prison, right? >> Yeah, of course they do. >> Yeah, they have gum? >> You could probably get gum. >> Yeah.
+>> I would think. >> I would imagine this is a prison survivalist fire starting kit. >> I don't know. I mean steel wool, you might
+be able to get steel wool from the kitchen, right?
+>> Right. I mean, this just for
+cleaning pots and stuff. But here, this is the most basic thing. We learned on Hacking the System that with a nine volt battery, you can... See, like, you can get that
+immediate, it's so fine. And it actually burns. Is it going to keep going? >> Ah, it looks like it might. [laughing] >> I'm afraid to breathe on it
+because if you breathe on it... >> That'll, yeah. >> See, and then there's oxygen. >> That's one of the simplest non-traditional ways to start a fire. >> Yeah, I-- >> Nine volt battery on
+a really fine steel wool. >> What do you think it is
+that's actually burning? I guess there's, does iron burn? >> Eh, that's a good question. I have no idea why this works. >> I don't know what's
+happening right now. >> BRANDT: So let's get
+this out of the way up top. We're not engineers,
+and we're not chemists. But before we go forward, we have to talk about some
+of the mechanics at play, even if its a dramatic oversimplification of what's actually happening. You have your battery,
+and you have steel wool. If you take a strand of the
+steel and bridge the battery terminals, you've made a
+complete circuit, right? So electricity is able to
+flow through the system. The battery pushes electrons
+flowing out of the negative terminal through the wire
+to the positive terminal. Metals make great conductors
+because they have a bunch of electrons that aren't very
+tightly held to each atom, so these electrons can
+move around pretty easily, and electric current is basically just the flow of electrons. This also happens incredibly fast. The electrons don't move much, but since they're all pushed
+up against each other, the electricity propagates
+near the speed of light. Ideally, this would be a very clean process, but anything that isn't a
+superconductor has at least a little bit of resistance. Not only does resistance
+differ between materials, but also in how thick
+and thin the wire is, how long the wire is,
+what temperature it is. Sometimes an electron
+collides with the iron atoms, instead of pushing along the orbitals, where the electrons typically go. And this collision
+scatters motion randomly, and all that kinetic
+energy then becomes heat. This is called joule heating, and is why incandescent
+light-bulbs get hot. Or how a lot of heating elements work, like space heaters or electric stoves. Now, the iron in steel wool
+wants to react with oxygen to create what is
+effectively a form of rust, because it's more stable like that. There needs to be a lot of energy to make the reaction happen like this, though. Think back to when we ignited thermite,. It was really stable at room temperature, but once heated to the ignition point, it was far less stable
+and much more reactive. There's an important
+difference here, though. Thermite already had oxygen
+in the iron oxide powder, but that's not the case
+with the steel wool. Since the air only consists
+of approximately 21% oxygen, you can speed up the
+reaction by blowing on it, spinning it, or you know,
+just dipping it into that spare beaker full of pure oxygen
+that you have lying around. The ignition works due to
+a few important variables. Steel, particularly in this wool form, hits a sweet spot for being
+a conductive enough metal that it allows the passage
+of plenty of electricity, but because the steel wires are so thin, they have a lot of resistance, which causes a lot of heat in the process. Once the strand of steel
+hits its ignition point, it starts reacting with the
+oxygen and creating iron oxide, which you can see turn a darker color when the burning is finished. Because the wool is air
+permeable and has so much more surface area than something
+like a solid block of steel, you have a lot of high
+resistance iron exposed to oxygen just ready to react, and the
+heating on nearby strands propagate a self-sustaining chain reaction that lasts until the
+available steel surface or surrounding oxygen has depleted. >> BRIAN: It looks great. Do you want to put it into the water? >> No.
+>> Okay. Just want to let it burn?
+>> Just to mash it, see? >> Look at that.
+>> See, yeah. >> Yeah, all that scar tissue on your hand [laughing] I pull up my charred stump,
+I'm like, it's awesome! >> It's fine. >> So in this case you
+got nine vault battery, and it's arcing over the very
+very thin conductors, right? And I guess the oxygen, it starts burning, and then the more you blow on it... [blowing] See, look at that.
+>> Yeah. And then you can hold
+something else to it, some sort of kindling or
+whatever, some sort of actual source for the flames,
+you hold that to it. >> That's extraordinary.
+>> Yeah. >> But here's what I want to know. This is the finest grade, boy, look at that, it's all
+just glowing in the middle. We should probably, let's get that bucket. >> Look at us.
+>> Here, here. >> Being kind of responsible!
+>> Almost. >> Yeah, that's a... That's fire. >> I went and got a whole
+bunch of different grains of steel wool, what is your prediction? Because on the one hand, you
+got this copper scrubber, and I don't know if it doesn't
+work because it's copper, or I guess that's the copper top. >> Yeah, you want to try it?
+>> Go for it. So I don't think that's
+going to do anything. >> I don't think it will,
+because it should work because it's copper, but maybe
+because it's too thick? Dunno.
+>> Meh. Doesn't seem to do nothing.
+>> Nothing. >> So here's my question to you. We know that when you bridge
+the two terminals with super fine steel wool,
+that ignites, right? It gets hot enough and you can blow on it and it gets all fiery
+>> Sure. >> That is zero zero zero zero fine grain. I don't know if you say
+grain, you don't say grain. Fine mesh or whatever. And then this is the
+coarsest mesh, level three. >> JASON: Oh, this one is the coarsest. >> Correct, so know that this one works, but what about bronze wool? Do you think bronze will work? Is it the steelness that matters, or the fineness of it that matters? >> That's a good question >> What's your bet? >> I'm going to go, I'm going to
+think yeah, I think it'll work. >> Okay.
+>> It's very fine-- >> I feel steel oxidizes
+different than bronze. >> That's true, it's almost
+cloth-like, it's so soft. >> Okay. here we go. Whoa!
+>> Really? >> BRIAN: Oh, wait, hold on. >> Oh, I saw a spark!
+>> Yeah! >> JASON: Hm, so maybe it
+does work but not very well. >> Maybe it sparks, and
+you need something for it, because I see the sparks,
+I see it arcing there. >> JASON: It's not as flammable. >> BRIAN: What if we tried putting-- >> A little flammable material on there? >> Yeah. Here, blow on this. God, you can see the
+sparks but it's not... >> JASON: I don't think it's happening. >> It's not enough. All right, I'm not going
+to count this one out yet. >> I think you could
+make that work, but... >> But we'll press pause on this. So what do you think
+about this coarse grade? >> No.
+>> Really? >> I don't think that'll work at all. >> Really? Do the honors.
+>> Let's give it a shot. >> Oh, this... Oh, now you're switching your tune. >> Yeah, feeling it. >> BRIAN: But it really
+is, it's like wire. >> JASON: Here, let's, I'm
+going to try a different-- >> A fresh one?
+>> Just in case. >> Oh oh oh, blow blow
+blow, you've got it! Oh, I'm seeing a spark! [blowing] How come I'm not seeing anything? [blowing] >> You got a little bit right at first, like I did, and then nothing. >> Do you think it's... [exclaiming] [blowing] I think when too much of
+the surface area touches too much of the steel wool, it diffuses the electrical charge, right? Whereas like, if you look
+at just the one thread, see that?
+>> Yeah. >> You can light individual
+threads, even that thin, just by covering that. There it is. So I would imagine, maybe
+if you put a little bit of tinder in there... >> We could make the battery explode! [laughing] >> Take like, individual strips. Here you grab both sides of that, ready? And then I'm going to blow. [blowing] >> Oh!
+>> See, see? There's something to that. Okay, here, so try this again. That nine volt's across it. [laughing] >> There's an immediate... [blowing] I think it can be done. >> Boy, you really only
+get a few seconds before... Ooh, this is hot.
+>> Yeah. >> I don't think we're going
+to start much of a prison riot. >> Thank god, because
+I'm in minimum security, and I've got yoga in like an hour. [laughing] Warden said my downward
+facing dog needs work. >> Oh, you know what? You can make tinder by rubbing
+denim off of your jeans. >> Really?
+>> Yeah, so-- >> JASON: Fascinating. >> See, look at that.
+>> Oh wow, okay. Just do it until you got jorts on. [laughing] >> BRIAN: Okay, so now-- >> JASON: Fascinating, I never heard that. That's really cool. >> BRIAN: I would imagine
+you'd be able to do that with other stuff you'd be able to
+find, just out and about, so. >> Most people do not know
+you need to shave your jeans. [laughing] >> Shave your jeans with the
+awesome jort brand jean shaver. [laughing] So there it goes. So we got some tinder.
+>> Okay? [blowing] That was pretty promising. >> That was really exciting. [blowing] I light my jeans on fire. >> That just sounded like Zorak. [laughing] I'll light my jeans on fire. [laughing] [blowing] >> I'm calling it, it has to
+be the super fine one, right? [blowing] >> Yeah.
+>> Right? >> JASON: Instant results. >> What if we use this to start it? >> Well that's...
+>> Cheating? Yep.
+>> Yep. >> It's an experiment
+>> That's fine. >> We should probably move those. [laughing] So we can't even start
+this other one with this. >> Yeah. >> So it does burn.
+>> Does it? No, I think it's just being heated. >> JASON: Oh yeah? >> It's not burning. This fire is heating it up
+so it's becoming red hot, but then no amount of blowing on it... [blowing] Keeps it going.
+>> Yeah. >> Whereas with the coarse, look at this. Right?
+>> Oh yeah. >> So the steel has-- >> JASON: Steel, way better
+than copper and bronze. >> Steel burns, copper does not. >> Okay. >> And I guess that's
+the same thing on this. Yeah.
+>> Science. Probably should have started with this. [laughing] Yeah, so I'm going to say
+it's not impossible to... [blowing] To start this with a battery. >> It's just really tedious. >> But you're going to
+need a lot of tinder, right?
+>> Yeah. >> So double A battery is only 1.5 volts, right?
+>> Right. >> So, theoretically,
+what, one quarter of what we're looking at in a nine volt? No, one sixth?
+>> Yeah. This is one that I found
+on a prison ingenuity blog of things that were confiscated. Here, just cut me off a
+little length of that wire, and then strip the middle of it. What you're going to do, we'll
+see if we can get this to work >> Are you [beep] kidding me? >> What?
+>> I'm bleeding. >> How did you do that? >> I don't, I think... [laughing] I think there was a bit of steel wool. And when I went to grab this,
+the steel wool poked my pinky! >> I think that counts
+for the injury counter. [sad music]
+>> No, it shouldn't! >> I think it does. >> It shouldn't, it's
+such [beep], god damn it! >> Roll it back, roll it back. You're like Mr. Glass! [laughing] >> Are you kidding me? >> I showed Brian a picture
+of a really sharp knife and his hands just started bleeding. [laughing] >> I swear to god. >> I love how indignant you are, like-- >> I'm so mad!
+>> What? [laughing] >> You want the edges? >> Yeah, and I would like-- >> Oh, that's probably not good. >> Yeah, no. >> Yank out a tooth. [laughing] >> I'm bleeding and like it doesn't count, it's not my hands.
+[smooth music] >> It resets the injury counter. Can you reset it twice in one episode? >> It goes by, instead
+of days it's now minutes. [laughing] Dude, I'm going to have
+to [beep] put on a thing! >> Okay. Okay, so take this and strip a little bit out of the center as well.
+>> Out of the middle? >> Yeah. Like a squirrel. >> That way two of my teeth connect is like a perfect wire stripper. >> Oh really?
+>> Yeah, so it's always-- >> Is that your mutant ability? >> That's my one skill. Okay, got it. So we have a little bit
+of exposed wire there. >> JASON: Ol' Bloody
+Hands Brushwood, okay. So yeah we're going to take this, we're going to connect into
+the negative terminal here, and put some electrical tape on that. >> Now, this seems like
+a thick gage wire, like, would we be better off taking
+like this coarse stuff? Would that get hotter? >> Well, let's try this. I think you're probably onto something. >> BRIAN: Yeah, okay. >> But let's try this
+and just see if it works. >> BRIAN: So when you bridge that, is it just going to get real hot? >> It's supposed to
+warm up that part there, but again, this is a thick wire, I don't know if it's going to work. I'm not expecting good results, but-- >> You want jean tinder? >> Shave those pants. [laughing] >> Every time you say
+it, it sounds so weird. Shaving my pants. >> Okay, so now what? >> I'm going to touch wire
+to to positive terminal >> Yeah? >> Then that heats up and
+we're going to burn it. >> Like, the mere fact you're
+able to use your fingers there tells me it's not that hot. >> JASON: Yeah. >> So try this, try
+getting rid of all that. >> Okay.
+>> Tape that on one side. I'm going to grab a few threads of this. >> Make it a little thicker? >> Yeah, or just a few of them kind of threaded together, right? There you go, like that?
+>> Sure. >> Here, I'm just going to hold.
+>> Yeah, just do it. >> Okay, ready?
+>> Yeah. >> Nothing. [imitates buzzer] >> Now I feel the battery getting warmer >> JASON: I mean, you
+would think that it would-- >> I'm going to guess
+that the voltage is just-- >> Just not enough, yeah. >> And again, this is the coarse wire. Maybe go back to this? Hold up that nine volt. Oh! >> Oh, a little too well! >> Did you see it?
+>> So close. >> It was doing the thing! >> One method that I saw
+online was taking a package of foil gum, cutting it in such
+a way it's really really thin. Again, that seems to be
+the common denominator. >> So in this case, this
+acts as both as the wire and the tinder. >> Yeah, you've got that
+paper on the side of the foil that I think is going to
+be the combustible side. So I cut the serrated end
+off, and then I'm going to cut just a thin strip off
+the edge here to use. So you take this, fold it
+in half, we're going to make our center where it's
+folded really really thin. >> Oh, got it, got it, got it. That's where it'll get hot and
+hopefully ignite the paper. >> JASON: Yeah, that's
+what were hoping for. Going to make that just
+really really thin. So this is tissue thin now, right? >> Yeah
+>> And be careful. We're going to take the
+foil side and connect it to the negative, and then the positive. But let's get our tinder ready. I'm doing the paper side out with the foil side down on the terminals I love when we have episodes, like, it's clear that you guys
+know nothing about physics. I'm like, yeah, dude. >> Yeah, welcome to the show. >> JASON: Middle there, you just going to hold it?
+>> Yeah. >> Okay, I'm going to... Oh okay, good.
+>> Okay. Whoa!
+>> Here we go! >> You made fire, you made fire! [cheering] That was great! I did not expect that to work at all! >> JASON: And if you'll notice, it's mostly the paper that burned away. >> BRIAN: Yeah, sure, sure. >> JASON: Like, the foil
+part heated up the paper, the paper started burning and it got all of our jean tinder too. >> BRIAN: Let me see if I
+can duplicate your results. Okay, cut a thin strip, fold it over. and cut from that side, get it nice and super duper thin.
+>> Really narrow in the center. >> Oh, you got it really thin.
+>> Right? Wow! That worked great, even
+without jean tinder! >> Yeah!
+>> Who [beep] knew, jean! We've discovered secrets of prison fire! >> Jean's had a rough time lately. >> No, Jean had it coming, dude. He was doing a nickel
+on assault and arson. [laughing] So this time I'm not even going to worry. >> So you didn't slim it down. >> Yeah, no, so it does matter. >> JASON: You really have to. >> Okay, so that middle
+step really matters. Here, let's light something on fire. Okay, man, we have to create a distraction so that you can escape! >> Let's do it!
+>> And I can murder my enemies! [cheering] [imitating alarm] [laughing] Man, I'm giving us a 10 out of 10. >> Victory!
+>> That was amazing! >> That felt good. We're going to escape
+from this asteroid prison. Me and you and the highlander! [laughing] They can't hold us! Its a sword, Connor! That's the other guy,
+that's the other highlander. >> John Conner shows up and you're like, Me? No, other Connor. [laughing] They did it, those bastards! >> What did they do? >> Damn you all too hell, they blew it up! >> What did they blow up? >> Net neutrality! [screaming] Jesus Christ, what are we going to do? Oh, we can do Nord! Brian, we can do Nord! It's, like, 99 dollars for three years! Military grade encryption! [laughing] Unlimited bandwidth! Brian, we're going to be okay! It can get past the
+great firewall of China! Here, hold this, it'll
+make you feel better. NordVPN is the only VPN rated by-- >> PC Magazine.
+>> Oh, PC Magazine, it's-- >> Got a perfect score. >> Perfect score, it's the
+only one to ever do that. And six connections at once. We're going to make it, man. >> But how will we afford it! It's so expensive! >> It's not, it's $2.75 a month! 77% percent off if you
+go to nordvpn.com/rogue! >> Oh my god, it sounds like you're saying if I go to nordvpn.com/rogue, I can get three years for only 99 dollars! >> That's what I'm saying, man! I think we're going to be all right. >> Oh, they're really fast. >> I'm sorry, I got
+really upset over there. >> I leave mine on all the time. >> JASON: I kind of freaked out. You leave yours on all the time? >> BRIAN: Yeah, yeah, it's great. >> They're very fast.
+>> I was not prepared for-- >> We're going to be okay, I think. You better now? >> I feel better now,
+knowing that NordVPN. >> I should probably call
+my mom, just check on her. I don't think she knows. I'm worried about my family, Brian. Are you okay? God, he's sobbing! [laughing] 
