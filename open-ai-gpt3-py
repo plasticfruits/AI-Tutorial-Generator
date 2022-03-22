@@ -2,16 +2,17 @@
 import os
 import openai
 
-key = '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'
 openai.organization = "org-JeG2xIDJDE8HecUnBBacYSbF"
-openai.api_key = os.getenv(key)
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
+
+# %%
 # Send request
 response = openai.Completion.create(
     engine="text-davinci-002",
     prompt="Say this is a test",
     temperature=0,
     max_tokens=6)
-    
+
 # print response
 print(response.choices[0].get('text'))
