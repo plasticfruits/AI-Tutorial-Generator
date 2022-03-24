@@ -1,5 +1,6 @@
 # %%
 from os import kill
+import json
 import pandas as pd
 from youtube_transcript_api import YouTubeTranscriptApi
 
@@ -28,12 +29,11 @@ for index, row in youtube_df.iterrows():
         for i in video_transcript:
             text = i["text"] + " "
             script = script + text
-        with open(f"./exports/youtube/{video_title}.txt", "w") as text_file:
-            print(script, file=text_file)
+        dict = {'task': video_title, 'solution': script}
+        with open(f"./exports/youtube/{video_title}.json", "w") as out_file:
+            json.dump(dict, out_file, indent = 3)
     except:
         print("-- Error: No subtitles available --")
         pass
-    
-
 
 # %%
